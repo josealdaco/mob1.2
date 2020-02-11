@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "container:Collection_View/collectionView-starter.xcodeproj">
+      location = "self:collectionView-starter.xcodeproj">
    </FileRef>
 </Workspace>
